@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T16:21:09.482Z'
+datePublished: '2016-08-08T16:53:05.816Z'
 sourcePath: >-
   _posts/2016-04-15-google-may-have-found-a-way-to-make-the-real-world-web-work.md
 inFeed: true
@@ -21,7 +21,7 @@ author:
   - name: Brian Barrett
     url: 'http://www.wired.com/author/brianrbarrett/'
     avatar: {}
-dateModified: '2016-08-08T16:21:08.765Z'
+dateModified: '2016-08-08T16:53:05.689Z'
 title: Google May Have Found a Way to Make the Real-World Web Work
 app_links: []
 publisher:
