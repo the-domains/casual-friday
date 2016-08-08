@@ -1,0 +1,14 @@
+layout_spectrum: 0.34560588630847633
+typography_spectrum: 0.2844460806809366
+color:
+  brandStrength: 0.5318276209291071
+  lightness: 0.6950449736323208
+  saturation: 0.67859643464908
+  rhythmicContrast: 0.14849414792843163
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: casual friday
